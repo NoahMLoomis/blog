@@ -1,0 +1,40 @@
+/*! Tablo Theme | https://tablo.me */
+
+@import 'tailwindcss';
+
+/* purgecss start ignore */
+
+@import './buttons';
+@import './copy';
+
+@theme {
+  --color-text: #040404;
+  --color-background: #ffffff;
+  --color-shade: color-mix(in srgb, var(--color-text), transparent 95%);
+
+  --spacing-container: 49rem;
+
+  --font-size-action: 18px;
+  --font-size-action--line-height: 24px;
+  --font-size-metadata: 20px;
+  --font-size-metadata--line-height: 24px;
+  --font-size-xl--line-height: 1.25;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text: #f0f0f0;
+    --color-background: #101010;
+  }
+}
+
+@layer base {
+  body {
+    color: var(--color-text);
+    background-color: var(--color-background);
+    text-underline-offset: 2px;
+    & * {
+      text-decoration-thickness: 1px;
+    }
+  }
+}
