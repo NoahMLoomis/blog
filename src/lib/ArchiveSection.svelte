@@ -35,7 +35,7 @@ let { limit = 5, posts = $page.data.posts.slice(0, limit || Infinity), header } 
   </div>
   {#if limit}
     <Action class="px-4 py-8 md:p-8">
-      <Button href="/archive">All posts &rarr;</Button>
+      <Button href="/archive">All Posts &rarr;</Button>
     </Action>
   {/if}
 </section>
