@@ -38,7 +38,7 @@ export function loadPosts(props) {
       return {
         id: page.id,
         title: page.meta.title,
-        date: page.meta.date,
+        date: addOneDay(page.meta.date),
         pinned: page.meta.pinned,
         author: page.meta.author,
         authorId: slugify(page.meta.author),
@@ -57,6 +57,7 @@ export function loadPage(id) {
   const content = render(page.Page).body;
   return {
     ...page.meta,
+    date: addOneDay(page.meta.date),
     id: page.id,
     content,
     authorId: slugify(page.meta.author),
@@ -71,4 +72,8 @@ function parseTags(tags) {
 
 function createDescription(html) {
   return html.split('\n')[0].replace(/<.+?>/g, '');
+}
+
+function addOneDay(date) {
+  return new Date(date).setDate(new Date(date).getDate() + 1);
 }

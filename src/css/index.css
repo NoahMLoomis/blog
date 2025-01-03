@@ -1,9 +1,7 @@
 /*! Tablo Theme | https://tablo.me */
-
 @import 'tailwindcss';
 
 /* purgecss start ignore */
-
 @import './buttons';
 @import './copy';
 
@@ -31,10 +29,19 @@
 @layer base {
   body {
     color: var(--color-text);
+    font-family: 'EB Garamond', Helvitica, Georgia;
     background-color: var(--color-background);
     text-underline-offset: 2px;
     & * {
       text-decoration-thickness: 1px;
     }
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'DM Serif Display', Georgia;
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: Template page 
+title: Template page
 author: Noah Loomis
 tags: PCT
 date: 2024-12-30
@@ -25,6 +25,3 @@ So if you're looking for a minimalistic, clean, and performant theme for your bl
 </Action>
 
 <Image src="/img/morning-v5-720x.webp" srcset="/img/morning-v5-1440x.webp 2x" width="720" height="480" caption="When we sleep, our brains have the chance to process information and consolidate memories."/>
-
-
-
