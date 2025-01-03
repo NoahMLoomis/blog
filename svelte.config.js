@@ -5,7 +5,9 @@ import { mdsvex } from 'mdsvex';
 const config = {
   extensions: ['.svelte', '.md', '.svx'],
   kit: {
-    adapter: adapter(),
+    adapter: adapter({
+      runtime: 'nodejs20.x',
+    }),
   },
   preprocess: [
     mdsvex({
