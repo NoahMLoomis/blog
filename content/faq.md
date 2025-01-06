@@ -17,7 +17,7 @@ I watched <a target="_" href="https://en.wikipedia.org/wiki/Wild_(2014_film)">Wi
 
 It's a trail that goes from Mexico to Canada, on the west coast. It goes through California, Oregon and Washington. It's 2,653 mi (4,270 km) long.
 
-<Image src="https://www.pcta.org/wp-content/uploads/2019/12/PCT-overview-map-on-1-page-by-Magellan-v.1.2018.jpg" srcset="/img/morning-v5-1440x.webp 2x" width="720"  caption="Map of the Pacific Crest Trail" alt="PCT map"/>
+<Image src="img/pct-map.jpg" width="720"  caption="Map of the Pacific Crest Trail" alt="PCT map"/>
 
 ## How long will it take you?
 
