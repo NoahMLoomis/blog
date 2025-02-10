@@ -41,7 +41,7 @@ When you leave animals alone, they leave you alone. The biggest danger is bears 
 
 ## When are you leaving?
 
-My current start date is May 4th 2025 (May the fourth be with you).
+My current start date is ~~May 4th 2025~~ March 26th (Changed the start date to be earlier).
 
 ## I have more questions!
 
