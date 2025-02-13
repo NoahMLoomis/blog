@@ -3,8 +3,11 @@ import '/src/css/index.css';
 import config from '/src/config';
 import Logo from '$lib/Logo.svelte';
 import PageLoader from './PageLoader.svelte';
+import { injectAnalytics } from '@vercel/analytics/sveltekit'
 
-let { data, children } = $props();
+let {children } = $props()
+
+injectAnalytics();
 
 </script>
 
