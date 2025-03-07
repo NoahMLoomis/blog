@@ -1,16 +1,5 @@
-# Tablog
-
-A minimalistic blog theme built with SvelteKit.
-
-📺 [Demo](https://tablogdemo.vercel.app)
-
-## Install
-
-```sh
-npx degit lemmon/tablog-svelte
-npm install
-npm run dev
-```
+## Notes
+- Use GPX files to build path on the map: https://www.dcarr.com/2025-pct-gpx
 
 ## Usage
 
