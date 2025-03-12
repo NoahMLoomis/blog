@@ -23,6 +23,10 @@ It's a trail that goes from Mexico to Canada, on the west coast. It goes through
 
 Somewhere between 4-5 months. It's impossible to know exactly with all the unknown factors, such as my speed, health and overall fitness.
 
+## Are you going with somebody?
+
+No, I'm going alone. But it's a very popular trail and it's very common to make friends on the trail.
+
 ## What about food?
 
 The PCT passes through (or close to) towns every 3-5 days, where I'll be able to resupply food and any gear I need. The longest food carry is 7-8 days. For the most part, I won't be shipping food to myself as I'll likely get tired of eating the same food, and it makes it harder to be flexible. I will be shipping certain gear boxes to myself, and maybe 1 or 2 resupply boxes where towns are very small and don't have much more than a gas station.
