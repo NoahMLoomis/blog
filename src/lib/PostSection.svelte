@@ -8,11 +8,8 @@ import CalendarIcon from '$lib/icons/CalendarIcon.svelte';
 import PinIcon from '$lib/icons/PinIcon.svelte';
 import PenToolIcon from '$lib/icons/PenToolIcon.svelte';
 import BookmarkIcon from '$lib/icons/BookmarkIcon.svelte';
-import LocationMap from './LocationMap.svelte';
 
 let { post } = $props();
-console.log(post)
-
 </script>
 
 {#key post.id}
@@ -50,10 +47,7 @@ console.log(post)
           {/if}
         </aside>
       {/if}
-
       <Copy>{@html post.content}</Copy>
-
-      <LocationMap location={post.location}/>
     </article>
   </section>
 {/key}

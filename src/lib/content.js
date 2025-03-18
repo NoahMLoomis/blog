@@ -47,6 +47,8 @@ export function loadPosts(props) {
           ? page.meta.description || createDescription(content)
           : undefined,
         content: opt.content ? content : undefined,
+        lon: page.meta.lon,
+        lat: page.meta.lat,
       };
     });
 }

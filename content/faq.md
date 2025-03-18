@@ -3,6 +3,9 @@ title: FAQ
 author: Noah Loomis
 tags: PCT
 date: 2025-01-03
+lat: 33.814842
+lon: -116.679359
+
 ---
 
 <script>
