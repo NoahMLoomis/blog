@@ -3,7 +3,7 @@ title: Template page
 author: Noah Loomis
 tags: PCT
 date: 2024-12-30
-draft: false 
+draft: true
 lat: 33.814842
 lon: -116.679359
 ---
