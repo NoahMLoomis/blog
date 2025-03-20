@@ -38,35 +38,6 @@ injectAnalytics();
   </main>
 
   <footer class="mt-8">
-    <nav class="text-xl">
-      <ul class="flex flex-row flex-wrap gap-x-6">
-        <!-- <li><a class="flex flex-row gap-0.5 p-2 underline" href="/feed.xml" download>Feed</a></li> -->
-        <!-- Show all the pages -->
-        <!-- {#each data.pages as item (item.id)}
-          <li><a class="block p-2 underline" href="/{item.id}">{item.title}</a></li>
-        {/each} -->
-        <!-- Github and twitter links -->
-        <!-- <li>
-          <a
-            class="flex flex-row gap-0.5 p-2"
-            href="https://github.com/lemmon/tablog-svelte"
-            target="_blank"
-            rel="external noreferrer nofollow"
-            ><span class="underline">Github</span><span class="text-current/20">&#8599;</span></a
-          >
-        </li>
-        <li>
-          <a
-            class="flex flex-row gap-0.5 p-2"
-            href="https://www.twitter.com/lemmon"
-            target="_blank"
-            rel="external noreferrer nofollow"
-            ><span class="underline">Twitter</span><span class="text-current/20">&#8599;</span></a
-          >
-        </li> -->
-      </ul>
-    </nav>
-
     <div class="copy px-4 py-8 text-xl md:p-8">
       <p>
         &copy; {new Date().getFullYear()}

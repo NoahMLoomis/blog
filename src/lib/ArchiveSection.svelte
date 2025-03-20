@@ -3,8 +3,6 @@ import { format } from 'date-fns';
 import { page } from '$app/stores';
 import config from '/src/config';
 import Header from '$lib/Header.svelte';
-import Action from '$lib/Action.svelte';
-import Button from '$lib/Button.svelte';
 
 import PinIcon from '$lib/icons/PinIcon.svelte';
 
@@ -33,9 +31,4 @@ let { limit = 5, posts = $page.data.posts.slice(0, limit || Infinity), header } 
       {/each}
     </ul>
   </div>
-  {#if limit}
-    <Action class="px-4 py-8 md:p-8">
-      <Button href="/archive">All Posts &rarr;</Button>
-    </Action>
-  {/if}
 </section>

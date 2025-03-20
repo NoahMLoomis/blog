@@ -3,11 +3,18 @@ title: FAQ
 author: Noah Loomis
 tags: PCT
 date: 2025-01-03
+lat: 33.814842
+lon: -116.679359
 ---
 
 <script>
     import Image from '$lib/Image.svelte'
 </script>
+
+
+## How can I contact you during your hike?
+
+You can send me a text message (or Whatsapp) or email me at <a href="mailto:noah.loomis@me.com">noah.loomis@me.com</a>, though I can't promise to reply in a timely manner!
 
 ## Why?
 
@@ -50,3 +57,4 @@ My current start date is ~~May 4th~~ March 26th 2025 (Changed the start date to 
 ## I have more questions!
 
 Feel free to reach out, in person, online or over the phone. I'm happy to talk about the trip.
+

@@ -48,6 +48,7 @@ onMount(async () => {
           const marker = L.marker([loc.lat, loc.lon]).addTo(map).bindPopup(`
                 ${loc.title ? `<a href=${loc.id}>${loc.title}</a><br>` : ''}
                 ${loc.date ? `${new Date(loc.date).toLocaleDateString()}<br>` : ''}
+                <a target="_blank" href=${`https://forecast.weather.gov/MapClick.php?lat=${loc.lat}&lon=${loc.lon}`}>View Weather</a></br>
                 ${loc.lat}, ${loc.lon}
               `);
 

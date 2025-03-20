@@ -1,5 +1,5 @@
 ---
-title:
+title: Starting March 26th
 ---
 
 In 2025 I'm hiking the <a target="_" href="https://en.wikipedia.org/wiki/Pacific_Crest_Trail">Pacific Crest Trail</a>. If you want to follow my hike, this blog will contain my updates.
