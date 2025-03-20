@@ -3,12 +3,11 @@ import '/src/css/index.css';
 import config from '/src/config';
 import Logo from '$lib/Logo.svelte';
 import PageLoader from './PageLoader.svelte';
-import { injectAnalytics } from '@vercel/analytics/sveltekit'
+import { injectAnalytics } from '@vercel/analytics/sveltekit';
 
-let {children } = $props()
+let { children } = $props();
 
 injectAnalytics();
-
 </script>
 
 <svelte:head>
@@ -19,15 +18,19 @@ injectAnalytics();
 <PageLoader />
 
 <div class="max-w-container mx-auto flex min-h-screen flex-col">
-  <header class="flex flex-row px-4 py-8 md:p-8">
+  <header class="flex flex-row justify-between px-4 py-8 md:p-8">
     <figure>
       <a class="flex flex-row items-center gap-4" href="/" title={config.siteTitle}>
         <Logo />
         <!-- <!-- display site title next to the logo -->
         <h1 class="text-4xl leading-none tracking-tight">{config.siteTitle}</h1>
-        
       </a>
     </figure>
+
+    <h2 class="flex flex-row items-center gap-4 font-bold">
+      <a href="/map">Progress Tracker</a>
+      <a href="/archive">All Posts</a>
+    </h2>
   </header>
 
   <main class="flex-1">
@@ -35,8 +38,8 @@ injectAnalytics();
   </main>
 
   <footer class="mt-8">
-    <nav class="text-xl ">
-      <ul class="flex flex-row flex-wrap gap-x-6 ">
+    <nav class="text-xl">
+      <ul class="flex flex-row flex-wrap gap-x-6">
         <!-- <li><a class="flex flex-row gap-0.5 p-2 underline" href="/feed.xml" download>Feed</a></li> -->
         <!-- Show all the pages -->
         <!-- {#each data.pages as item (item.id)}

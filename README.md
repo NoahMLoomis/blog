@@ -1,5 +1,6 @@
 ## Notes
-- Use GPX files to build path on the map: https://www.dcarr.com/2025-pct-gpx
+
+-   Use GPX files to build path on the map: https://www.dcarr.com/2025-pct-gpx
 
 ## Usage
 

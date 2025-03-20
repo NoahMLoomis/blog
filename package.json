@@ -20,6 +20,7 @@
     "gray-matter": "^4.0.3",
     "leaflet": "^1.9.4",
     "nodemailer": "^6.9.16",
+    "openmeteo": "^1.2.0",
     "slugify": "~1.6.0"
   },
   "devDependencies": {

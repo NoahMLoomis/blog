@@ -4,9 +4,6 @@ import path from 'path';
 import matter from 'gray-matter';
 import nodemailer from 'nodemailer';
 
-console.log('Email user');
-console.log(process.env.EMAIL_PASSWORD);
-
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
