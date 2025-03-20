@@ -4,6 +4,8 @@ author: Noah Loomis
 tags: PCT
 date: 2024-12-30
 draft: true
+lat: 33.814842
+lon: -116.679359
 ---
 
 <script>

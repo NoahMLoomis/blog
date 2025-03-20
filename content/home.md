@@ -8,4 +8,6 @@ I'm not sure how often I'll be able to update it, but I plan on updating it week
 
 To answer your initial questions, checkout the <a href='/faq'>FAQ</a> post.
 
+To see the latest blog posts, see below.
+
 To learn more about the trail, checkout the <a target="_" href='https://www.pcta.org/'>Pacific Crest Trail website</a>.
