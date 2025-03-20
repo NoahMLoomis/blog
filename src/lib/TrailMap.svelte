@@ -2,11 +2,9 @@
 import { onMount } from 'svelte';
 import 'leaflet/dist/leaflet.css';
 
-// Accept props for this specific location and all blog post locations
 const { posts = [] } = $props();
 
-// Trail file path - adjust based on your public folder structure
-const trailPath = '/Full_PCT.geojson'; // Place your GeoJSON file in the static/public folder
+const trailPath = '/Full_PCT_Simplified.geojson';
 
 let map;
 let markers = [];
@@ -33,6 +31,7 @@ onMount(async () => {
   try {
     const response = await fetch(trailPath);
     const trailData = await response.json();
+
     trailLayer = L.geoJSON(trailData, {
       style: {
         color: '#ff6b6b',
@@ -44,10 +43,12 @@ onMount(async () => {
     // Add markers for all blog post locations
     if (posts && posts.length >= 0) {
       posts.forEach((loc) => {
+        console.log(loc);
         if (loc && loc.lat && loc.lon) {
           const marker = L.marker([loc.lat, loc.lon]).addTo(map).bindPopup(`
-                ${loc.title ? `Post: ${loc.title}<br>` : ''}
-                ${loc.date ? `Date: ${new Date(loc.date).toLocaleDateString()}<br>` : ''}
+                ${loc.title ? `<a href=${loc.id}>${loc.title}</a><br>` : ''}
+                ${loc.date ? `${new Date(loc.date).toLocaleDateString()}<br>` : ''}
+                ${loc.lat}, ${loc.lon}
               `);
 
           markers.push(marker);
