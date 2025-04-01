@@ -3,10 +3,16 @@ title: Dust everywhere
 author: Noah Loomis
 tags: PCT
 date: 2025-04-01
-draft: true
+draft: false
 lat: 33.0953
 lon: -116.64537
 ---
+
+<script>
+    import Image from '$lib/Image.svelte'
+</script>
+
+
 6 days in, and I don't think I've ever been dirtier. 
 
 Never having hiked in the desert, I wasn't really sure what to expect, but I wasn't expecting this amount of dirt and dust to get everywhere. Tiny miniscule dust particles that get whipped around by the wind that doesn't matter how well I pitch my tent, the dirt and dust gets in.
@@ -27,4 +33,12 @@ Passed mile 50 a few days ago, only 2600 miles to go.
 Thanks for being a fan,
 Noah
 
-At popular request, here are a few pictures. 
+At popular request, here are a few pictures.
+
+<Image src="/img/border.jpg"/>
+
+<Image src="/img/terminus.jpg"/>
+
+<Image src="/img/valley.jpg"/>
+
+<Image src="/img/windy.jpg"/>
