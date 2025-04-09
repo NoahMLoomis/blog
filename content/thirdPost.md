@@ -32,9 +32,11 @@ On the third day, the group I had been hiking with were planning on hiking into 
 But me and Ayo (shoutout Ayo) decided to do it together to motivate ourselves. I dropped my pack, and hiked the mountain with him, the raced down to meet up with my earlier group who had now passed me and was at a motel in Idlewild. It was a huge day and was exhausted, but it was also the best day so far.
 
 
-For anybody that thought "Ayo is a strange name", it's because that's not his real name. Thru hikers have a tradition of getting a "trail name", given to you by other hikers. The only rule is that is has to be accepted by the person receiving their name. Ayo is a trail name. So far I've met people named: Oats, Fish Fry, Sheppard, Veggie, Magic, Flash, Savage, Sauce, Fly Lord, Rainbow and many others that I can't remember right now. I don't know any of these peoples real names. There is always a story with how someone got their name. 
+For anybody that thought "Ayo is a strange name", it's because that's not his real name. Thru hikers have a tradition of getting a "trail name", given to you by other hikers. The only rule is that is has to be accepted by the person receiving their name. Ayo is a trail name. So far I've met people named: Oats, Fish Fry, Sheppard, Veggie, Magic, Flash, Savage, Sauce, Fly Lord, Rainbow, Scout, Lucky, Skater and many others that I can't remember right now. I don't know any of these peoples real names. There is always a story with how someone got their name. 
 
 Some people have tried to give me the following trail names: Captain, Flyby, Kangaroo, Maple Cougar, and another I can't remember. None of them felt quite right to me, so I'm holding out for a trail name that I feel fits me best (I was close to accepting Maple Cougar though).
+
+Some other things that happened: Briefly participates in a protest in Idlewild in exchange for a hitch, met the Mayor (very good boy)
 
 Today I took a zero (did no hiking) and hung around town, ate ice cream, drank beer with other hikers, and rested my feet. Tommorow I'm going back up the mountain to continue the trail. 
 
