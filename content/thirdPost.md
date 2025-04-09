@@ -3,7 +3,7 @@ title: It never rains in southern california
 author: Noah Loomis
 tags: PCT
 date: 2025-04-08
-draft: true
+draft: false
 lat: 33.75129
 lon: -116.7179
 ---
@@ -43,10 +43,18 @@ Today I took a zero (did no hiking) and hung around town, ate ice cream, drank b
 As always, thanks for being a fan,
 Noah
 
-<Image src="/img/border.jpg"/>
+<Image src="/img/view.jpg" caption="On the way to the summit"/>
 
-<Image src="/img/terminus.jpg"/>
+<Image src="/img/burrito.jpg" caption="A very large breakfast burrito at Paradise Valley Cafe"/>
 
-<Image src="/img/valley.jpg"/>
+<Image src="/img/jacinto.jpg" caption="Ayo at the summit"/>
 
-<Image src="/img/windy.jpg"/>
+<Image src="/img/hail.jpg" caption="A lot of hail"/>
+
+<Image src="/img/mayor.jpg" caption="Meeting the mayor of Idlewild"/>
+
+<Image src="/img/mikes.jpg" caption="Mike's place. a bit odd"/>
+
+<Image src="/img/protest.jpg" caption="The protest I briefly participated in in exchange for a ride"/>
+
+<Image src="/img/magic.jpg" caption="Trail magic, giving donuts, fruit and water. best donuts ever"/>
