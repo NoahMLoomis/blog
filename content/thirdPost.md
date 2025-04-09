@@ -36,7 +36,7 @@ For anybody that thought "Ayo is a strange name", it's because that's not his re
 
 Some people have tried to give me the following trail names: Captain, Flyby, Kangaroo, Maple Cougar, and another I can't remember. None of them felt quite right to me, so I'm holding out for a trail name that I feel fits me best (I was close to accepting Maple Cougar though).
 
-Some other things that happened: Briefly participates in a protest in Idlewild in exchange for a hitch, met the Mayor (very good boy)
+Some other things that happened: Briefly participates in a protest in Idlewild in exchange for a hitch, and also met the Mayor (very good boy). 
 
 Today I took a zero (did no hiking) and hung around town, ate ice cream, drank beer with other hikers, and rested my feet. Tommorow I'm going back up the mountain to continue the trail. 
 
