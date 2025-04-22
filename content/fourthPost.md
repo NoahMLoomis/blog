@@ -29,6 +29,6 @@ Noah
 
 <Image src="/img/donkeys.jpg"/>
 
-<Image src="/img/hitching.jpg"/>
+<Image src="/img/hitching.jpg" caption="hitching a ride into Wrightwood"/>
 
 
