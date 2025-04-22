@@ -3,7 +3,7 @@ title: My Birthday?
 author: Noah Loomis
 tags: PCT
 date: 2025-04-21
-draft: true
+draft: false
 lat: 34.35762
 lon: -117.6264
 ---
