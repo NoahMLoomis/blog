@@ -33,11 +33,12 @@ I legitimately only plan a few days ahead at a time. Where is the next town I ca
 Thanks for being a fan,
 Noah
 
-<Image src="/img/babyRattler.jpg" caption="Small danger noodle"/>
+<Image src="/img/jump.jpg"/>
 
-<Image src="/img/bigbear.jpg" caption="friends in big bear"/>
+<Image src="/img/aquaduct" caption="The famous LA Aquaduct"/>
 
-<Image src="/img/donkeys.jpg"/>
+<Image src="/img/hitch.jpg" caption="Backs of pickups are fun " />
 
-<Image src="/img/hitching.jpg" caption="hitching a ride into Wrightwood"/>
+<Image src="/img/will.jpg" caption="hitching a ride is slow when you're two guys"/>
 
+<Image src="/img/windFarm.jpg" caption="walked through about 2000 windmills in Tahachepi"/
