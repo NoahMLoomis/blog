@@ -40,4 +40,4 @@ Noah
 
 <Image src="/img/will.jpg" caption="hitching a ride is slow when you're two guys"/>
 
-<Image src="/img/windFarm.jpg" caption="walked through about 2000 windmills in Tahachepi"/
+<Image src="/img/windFarm.jpg" caption="walked through about 2000 windmills in Tahachepi"/>
