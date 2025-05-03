@@ -3,7 +3,7 @@ title: 500 miles
 author: Noah Loomis
 tags: PCT
 date: 2025-05-02
-draft: true
+draft: false
 lat: 35.11188
 lon: -118.45972
 ---
