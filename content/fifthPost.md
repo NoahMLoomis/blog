@@ -34,7 +34,7 @@ Noah
 
 <Image src="/img/jump.jpg"/>
 
-<Image src="/img/aquaduct" caption="The famous LA Aquaduct"/>
+<Image src="/img/aquaduct.jpg" caption="The famous LA Aquaduct"/>
 
 <Image src="/img/hitch.jpg" caption="Backs of pickups are fun " />
 
