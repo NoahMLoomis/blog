@@ -33,3 +33,5 @@ Noah
 <Image src="/img/sergios.jpg" caption="Sleeping at Sergios" />
 
 <Image src="/img/signal.jpg" caption="Nemo trying to get signal"/>
+
+<Image src="/img/everything.jpg" caption="Everything got a tattoo"/>
