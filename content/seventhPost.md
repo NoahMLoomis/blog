@@ -31,9 +31,9 @@ I'm writing this post the night before arriving in Mammoth, since it was too bus
 Thanks for being a fan,
 Noah
 
-<Image src="/img/wilfredo.jpg" caption="Wilfredo with dogs at Kennedy Meadows" />
+<Image src="/img/me.jpg" caption="The morning of Whitney" />
 
-<Image src="/img/700.jpg" caption="Mile 700. I look scruffy"/>
+<Image src="/img/kms" caption="Leaving Kennedy Meadows" />
 
 <Image src="/img/sergios.jpg" caption="Sleeping at Sergios" />
 
