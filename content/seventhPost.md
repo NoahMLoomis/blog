@@ -42,5 +42,3 @@ Noah
 <Image src="/img/camp.jpg" caption="Hanging out at camp" />
 
 <Image src="/img/mountains.jpg"/>
-
-<Image src="/img/everything.jpg" caption="Everything got a tattoo"/>
