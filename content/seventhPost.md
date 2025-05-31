@@ -1,5 +1,5 @@
 ---
-title: Sierras and Whitney
+title: KMS to Bishop
 author: Noah Loomis
 tags: PCT
 date: 2025-05-30
