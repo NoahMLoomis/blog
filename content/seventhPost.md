@@ -14,7 +14,7 @@ lon: -119.04908
 
 We left Kennedy Meadows as a group of 10, excited for the next section of the PCT. The first few days were fun and snow free, with the only challenge being the increased elevation change.
 
-4 days in, the group split. Half wanted to do Mt Whitney (highest mountain in the USA, a side quest that takes a day to do), half weren't comfortable with doing it. I was part of the group that wanted to do it. The group that decided to do it was me,  Hummingbird (NZ), Turkey & Sweets (Germany) and Everything (Germany).
+4 days in the group split. Half wanted to do Mt Whitney (highest mountain in the lower 48 states, a side quest that takes a day to do), half weren't comfortable with doing it. I was part of the group that wanted to do it. The group that decided to do it was me, Hummingbird (NZ), Turkey & Sweets (Germany) and Everything (Germany).
 
 We said goodbye to the other half of the group, with plans to meet again in Bishop. With ice axes and microspikes, we left for the hill at midnight for a sunrise summit. Because we were attempting the summit in the early season, the only chance we had to do it was when the snow was still cold and solid.
 
@@ -33,10 +33,14 @@ Noah
 
 <Image src="/img/me.jpg" caption="The morning of Whitney" />
 
-<Image src="/img/kms" caption="Leaving Kennedy Meadows" />
+<Image src="/img/flexing.jpg" caption="Flexing on top of Whitney" />
 
-<Image src="/img/sergios.jpg" caption="Sleeping at Sergios" />
+<Image src="/img/whitney.jpg" caption="The morning of Whitney" />
 
-<Image src="/img/signal.jpg" caption="Nemo trying to get signal"/>
+<Image src="/img/kms.jpg" caption="Leaving Kennedy Meadows" />
+
+<Image src="/img/camp.jpg" caption="Hanging out at camp" />
+
+<Image src="/img/mountains.jpg"/>
 
 <Image src="/img/everything.jpg" caption="Everything got a tattoo"/>
