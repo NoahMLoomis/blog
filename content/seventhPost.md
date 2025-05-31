@@ -34,7 +34,7 @@ Noah
 
 <Image src="/img/flexing.jpg" caption="Flexing on top of Whitney" />
 
-<Image src="/img/whitney.jpg" caption="The morning of Whitney" />
+<Image src="/img/whitney.jpg" caption="Going down Whitney" />
 
 <Image src="/img/kms.jpg" caption="Leaving Kennedy Meadows" />
 
