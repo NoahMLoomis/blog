@@ -2,7 +2,6 @@
 title: Sierras and Whitney
 author: Noah Loomis
 tags: PCT
-draft: true
 date: 2025-05-30
 lat: 37.63183
 lon: -119.04908
