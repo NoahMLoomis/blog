@@ -2,7 +2,6 @@
 title: Bishop to Mammoth
 author: Noah Loomis
 tags: PCT
-draft: true
 date: 2025-06-01
 lat: 37.63183
 lon: -119.04908
@@ -28,17 +27,19 @@ Mammoth reminds me a lot of Mont Tremblant. It being a big ski town there's a lo
 
 There's only a week and a half left in the Sierra's, most of the hardest passes are already behind us, but it feels like I started the Sierra's only a week ago.
 
-Arrived in Mammoth yesterday morning, and took today as a full zero day (no hiking). I'm looking forward to being back on the trail tommorow. Being in town is nice, but after more than a day I get ansty, and feel the pull to get back walking. 
+Arrived in Mammoth yesterday morning, and took today as a full zero day (no hiking). I'm looking forward to being back on the trail tommorow. Being in town is nice, but after more than a day I get ansty, and feel the pull to get back walking. Lots of pictures this time. 
 
 Thanks for being a fan,
 Noah
 
-<Image src="/img/me.jpg" caption="The morning of Whitney" />
+<Image src="/img/mather.jpg" caption="Mather pass was very steep" />
 
-<Image src="/img/whitney.jpg" caption="Going down Whitney" />
+<Image src="/img/mather2.jpg" />
 
-<Image src="/img/kms.jpg" caption="Leaving Kennedy Meadows" />
+<Image src="/img/mather3.jpg />
 
-<Image src="/img/camp.jpg" caption="Hanging out at camp" />
+<Image src="/img/jmt.jpg" />
 
-<Image src="/img/mountains.jpg"/>
+<Image src="/img/whitney2.jpg" caption="The crew that did Whitney" />
+
+<Image src="/img/marmot.jpg" caption="An unafraid marmot" />
