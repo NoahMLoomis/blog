@@ -35,11 +35,12 @@ Noah
 <Image src="/img/mather.jpg" caption="Mather pass was very steep" />
 
 
+
+<Image src="/IMG/mather2.jpg.heif" />
+
+<Image src="/img/mather3.jpg.heif" />
+
 <Image src="/img/cowboy.jpg" caption="No room for tents so we cowboyed" />
-
-<Image src="https://drive.google.com/file/d/1DcHfrFT5zAOVXIU_qwwlDqwn_DD7NdE-/view?usp=drivesdk" />
-
-<Image src="/img/mather3.jpg" />
 
 <Image src="/img/jmt.jpg" />
 
