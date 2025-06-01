@@ -19,7 +19,7 @@ We also finally started seeing more wildlife! Small mouse, lots of unafraid marm
 
 During this time, the PCT and John Muir Trail (JMT) intersect. It is one of the most popular trails in the US, and for good reason. It has been by far the most beautiful hiking I have ever done. From walking along rivers overflowing from the melting snow to walking along mountain ridges, all day you're surrounded by incredible views. It's hard to remember to stop and look around.
 
-7 days after Mammoth, we arrived at Vermillion Valley Resort, an odd little oasis in the woods. It started as a hunting leant-to 80 years ago, and has evolved to be a hikers resupply with a full kitchen. The food there was expensive, but also the best I've had on trail so far.
+7 days after Bishop, we arrived at Vermillion Valley Resort, an odd little oasis in the woods. It started as a hunting leant-to 80 years ago, and has evolved to be a hikers resupply with a full kitchen. The food there was expensive, but also the best I've had on trail so far.
 
 In the desert, doing less than 20 miles a day felt like a half day of hiking. In the Sierra's, doing more than 15 miles continuously is a big challenge.
 
