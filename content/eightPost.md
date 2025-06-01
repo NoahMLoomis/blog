@@ -36,9 +36,9 @@ Noah
 
 
 
-<Image src="/IMG/mather2.jpg.heif" />
+<Image src="/img/mather2" />
 
-<Image src="/img/mather3.jpg.heif" />
+<Image src="/img/mather3" />
 
 <Image src="/img/cowboy.jpg" caption="No room for tents so we cowboyed" />
 
