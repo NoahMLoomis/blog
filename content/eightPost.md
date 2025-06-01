@@ -36,10 +36,10 @@ Noah
 
 <Image src="/img/mather2.jpg" />
 
-<Image src="/img/mather3.jpg />
+<Image src="/img/mather3.jpg" />
 
 <Image src="/img/jmt.jpg" />
 
 <Image src="/img/whitney2.jpg" caption="The crew that did Whitney" />
 
-<Image src="/img/marmot.jpg" caption="An unafraid marmot" />
+<Image src="/img/marmot.jpg" caption="An unafraid marmot. they always look angry" />
