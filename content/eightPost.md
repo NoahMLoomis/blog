@@ -39,6 +39,8 @@ Noah
 
 <Image src="/img/jmt.jpg" />
 
+<Image src="/img/water.jpg" />
+
 <Image src="/img/whitney2.jpg" caption="The crew that did Whitney" />
 
 <Image src="/img/marmot.jpg" caption="An unafraid marmot. they always look angry" />
