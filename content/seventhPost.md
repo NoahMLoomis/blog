@@ -3,8 +3,8 @@ title: KMS to Bishop
 author: Noah Loomis
 tags: PCT
 date: 2025-05-30
-lat: 37.63183
-lon: -119.04908
+lat: 37.38618
+lon: -118.91635
 ---
 
 <script>
