@@ -27,18 +27,13 @@ Mammoth reminds me a lot of Mont Tremblant. It being a big ski town there's a lo
 
 There's only a week and a half left in the Sierra's, most of the hardest passes are already behind us, but it feels like I started the Sierra's only a week ago.
 
-Arrived in Mammoth yesterday morning, and took today as a full zero day (no hiking). I'm looking forward to being back on the trail tommorow. Being in town is nice, but after more than a day I get ansty, and feel the pull to get back walking. Lots of pictures this time. 
+Arrived in Mammoth yesterday morning, and took today as a full zero day (no hiking). I'm looking forward to being back on the trail tommorow. Being in town is nice, but after more than a day I get ansty, and feel the pull to get back walking. 
 
 Thanks for being a fan,
 Noah
 
 <Image src="/img/mather.jpg" caption="Mather pass was very steep" />
 
-
-
-<Image src="/img/mather2" />
-
-<Image src="/img/mather3" />
 
 <Image src="/img/cowboy.jpg" caption="No room for tents so we cowboyed" />
 
