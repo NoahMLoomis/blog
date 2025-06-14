@@ -34,4 +34,4 @@ Noah
 
 <Image src="/img/lake.jpg" />
 
-<Image src="/img/gang" caption="The Sierra group. Our tramily name was 'Ohana' after lilo and stitch" />
+<Image src="/img/gang.jpg" caption="The Sierra group. Our tramily name was 'Ohana' after lilo and stitch" />
