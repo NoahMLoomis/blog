@@ -3,7 +3,6 @@ title: Soggy feet
 author: Noah Loomis
 tags: PCT
 date: 2025-06-14
-draft: true
 lat: 38.95795
 lon: -119.94511
 ---
@@ -27,12 +26,10 @@ Also, I took a day off to see Yosemite. Describing Yosemite in words doesn't do 
 Thanks for being a fan,
 Noah
 
-<Image src="/img/mather.jpg" caption="Mather pass was very steep" />
+<Image src="/img/yosemite.jpg" caption="Yosemite" />
 
-<Image src="/img/cowboy.jpg" caption="No room for tents so we cowboyed" />
+<Image src="/img/nemosleep.jpg" caption="Nemo with a great cowboy spot" />
 
-<Image src="/img/jmt.jpg" />
+<Image src="/img/north.jpg" />
 
-<Image src="/img/water.jpg" />
-
-<Image src="/img/whitney2.jpg" caption="The crew that did Whitney" />
+<Image src="/img/lake.jpg" />
