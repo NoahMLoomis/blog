@@ -22,6 +22,8 @@ Maybe that's why the "Norcal blues" exists. Hikers normally get depressed in Nor
 
 Despite the slight sadness I have for saying goodbye to my friends, I'm also of looking forward to starting the next section. Every day gets me a bit closer to home. I think I'll appreciate Norcal, though the first few days I might have a tougher time doing so.
 
+Also, I took a day off to see Yosemite. Describing Yosemite in words doesn't do those mountains justice.
+
 Thanks for being a fan,
 Noah
 
