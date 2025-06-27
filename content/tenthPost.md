@@ -19,7 +19,7 @@ Overall, I've been doing well. A few days after leaving friends I got used to be
 
 I still see other hikers with some regularity (Trip, Chip, Atlas, Yeti and Suds) but we aren't hiking together, it's more that we're hiking similar distances every day, and so inevitably pass eachother a few times. 
 
-I've seen a crapton of deer over the last 10 days, and had some bother me one night keeping me to only 4 hours of actually sleep. Another night I had a few marmots that wouldn't leave me alone, so at midnight I got up, hiked for an hour and spent the night in a cabin. Luckily these are infrequent disturbances. 
+I've seen a crapton of deer over the last 10 days, and had some bother me one night keeping me to only 4 hours of sleep. Another night I had a few marmots that wouldn't leave me alone, so at midnight I got up, hiked for an hour and spent the night in a cabin. Luckily these are infrequent disturbances. 
 
 I'm about 12 days away from finishing NorCal, and I can't wait. I'm ready to finish this massive state, and get to flatter Oregon, where the miles should be less challenging. I also passed the halfway point a few days ago. Despite it taking 3 months to get halfway, the second half of the trail should go by much faster, only taking on average 2 months.  
 
