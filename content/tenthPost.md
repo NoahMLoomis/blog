@@ -2,7 +2,6 @@
 title: Burnt trees
 author: Noah Loomis
 tags: PCT
-draft: true
 date: 2025-06-27
 lat: 40.8853
 lon: -121.65568
@@ -27,4 +26,14 @@ I'm about 12 days away from finishing NorCal, and I can't wait. I'm ready to fin
 Thanks for being a fan,
 Noah
 
-<Image src="/img/mather.jpg" caption="Mather pass was very steep" />
+<Image src="/img/burn.jpg" caption="Most of what I walk through" />
+
+<Image src="/img/sunset.jpg" caption="A pretty sunset" />
+
+<Image src="/img/wildflower.jpg" caption="Tons of wildflowers" />
+
+<Image src="/img/chris.jpg" caption="Chris have me a ride to the trail in his Porsche" />
+
+<Image src="/img/trail.jpg" caption="This is the trail sometimes" />
+
+<Image src="/img/mee.jpg" caption="A picture of me that Nemo took" />
