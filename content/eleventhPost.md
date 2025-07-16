@@ -24,14 +24,10 @@ Despite having only started Oregon not long days I'm nearly finished it. About 6
 Thanks for being a fan,
 Noah 
 
-<Image src="/img/burn.jpg" caption="Most of what I walk through" />
+<Image src="/img/oregon.jpg"/>
 
-<Image src="/img/sunset.jpg" caption="A pretty sunset" />
+<Image src="/img/smokey.jpg" caption="Smoke from wildfires" />
 
-<Image src="/img/wildflower.jpg" caption="Tons of wildflowers" />
+<Image src="/img/fire.jpg" caption="A tree that caught fire due to a lightning strike" />
 
-<Image src="/img/chris.jpg" caption="Chris have me a ride to the trail in his Porsche" />
-
-<Image src="/img/trail.jpg" caption="This is the trail sometimes" />
-
-<Image src="/img/mee.jpg" caption="A picture of me that Nemo took" />
+<Image src="/img/crater.jpg" caption="Crater Lake" />
