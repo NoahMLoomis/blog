@@ -28,7 +28,7 @@ I'm looking forward to seeing what else Washington has to offer, but with the en
 Thanks for being a fan,
 Noah
 
-<Image src="/img/rainier.JPG" caption="Mt. Rainier"/>
+<Image src="/img/rainier.JPG" caption="Mt. Rainier, and goat rocks"/>
 
 <Image src="/img/spooky.jpg" caption="Spooky" />
 
