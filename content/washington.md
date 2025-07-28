@@ -28,10 +28,10 @@ I'm looking forward to seeing what else Washington has to offer, but with the en
 Thanks for being a fan,
 Noah
 
-<Image src="/img/oregon.jpg"/>
+<Image src="/img/rainier.JPG" caption="Mt. Rainier"/>
 
-<Image src="/img/smokey.jpg" caption="Smoke from wildfires" />
+<Image src="/img/spooky.jpg" caption="Spooky" />
 
-<Image src="/img/fire.jpg" caption="A tree that caught fire due to a lightning strike" />
+<Image src="/img/gods.jpg" caption="Bridge of the gods" />
 
-<Image src="/img/crater.jpg" caption="Crater Lake" />
+<Image src="/img/adams.jpg" caption="Mt. Adams" />
