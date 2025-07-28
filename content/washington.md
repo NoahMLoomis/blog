@@ -32,6 +32,6 @@ Noah
 
 <Image src="/img/spooky.jpg" caption="Spooky" />
 
-<Image src="/img/gods.jpg" caption="Bridge of the gods" />
+<Image src="/img/gods.jpg" caption="Bridge of the gods, marking the start of Washington" />
 
 <Image src="/img/adams.jpg" caption="Mt. Adams" />
