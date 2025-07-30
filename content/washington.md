@@ -2,7 +2,7 @@
 title: Washington
 author: Noah Loomis
 tags: PCT
-date: 2025-08-28
+date: 2025-07-28
 lat: 46.63956
 lon: -121.38865
 ---
