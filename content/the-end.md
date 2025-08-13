@@ -33,10 +33,10 @@ Thanks for being a fan,
 Coach
 
 
-<Image src="/img/rainier.JPG" caption="Mt. Rainier, and goat rocks"/>
+<Image src="/img/team.jpg" caption="Spooky, me, and Logistics"/>
 
-<Image src="/img/spooky.jpg" caption="Spooky" />
+<Image src="/img/canada.jpg" />
 
-<Image src="/img/gods.jpg" caption="Bridge of the gods, marking the start of Washington" />
+<Image src="/img/wa.jpg" />
 
-<Image src="/img/adams.jpg" caption="Mt. Adams" />
+<Image src="/img/goat.JPG" caption="Goat Rocks" />
