@@ -38,5 +38,3 @@ Coach
 <Image src="/img/canada.jpg" />
 
 <Image src="/img/wa.jpg" />
-
-<Image src="/img/goat.JPG" caption="Goat Rocks" />
