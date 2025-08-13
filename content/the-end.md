@@ -2,7 +2,7 @@
 title: The end of a long walk
 author: Noah Loomis
 tags: PCT
-date: 2025-07-28
+date: 2025-08-13
 lat: 47.43886
 lon: -122.30193
 ---
