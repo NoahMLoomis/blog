@@ -11,7 +11,7 @@ lon: -122.30193
     import Image from '$lib/Image.svelte'
 </script>
 
-I'm sitting in the Seattle airport. 2 days ago, I finished the PCT. It's funny, when I started, the thought of finishing was so far from reality. There were so many obstacles and unknown factors in play. Fitness, injury, family emergency, so many of these things could have detailed my trip in the first week, or in the last. 
+I'm sitting in the Seattle airport. 2 days ago, I finished the PCT. It's funny, when I started, the thought of finishing was so far from reality. There were so many obstacles and unknown factors in play. Fitness, injury, family emergency, so many of these things could have derailed my trip in the first week, or in the last. 
 
 The feeling of finishing something that's been such a pipedream for 10 years is strange. It's not like winning a big sports match, where there's a decisive moment that your team scores the winning goal. Instead it's a slow build up in the last week, the last month. During that time, i would try to be reflective about my trip, my different experiences, but failing. It's really hard for me to be really reflective in the moment. I might do one last blog post after this one with some final reflections in the next two weeks instead. 
 
