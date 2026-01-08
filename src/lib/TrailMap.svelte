@@ -15,14 +15,15 @@ onMount(async () => {
 
   const L = await import('leaflet');
 
-  const initialCenter = [44.389267, -121.999961]; // Center of PCT in Oregon as fallback
-  const initialZoom = 4;
+  const initialCenter = [39.389267, -121.999961]; // Center of PCT in Oregon as fallback
+  const initialZoom = 2;
+
 
   map = L.map('map').setView(initialCenter, initialZoom);
 
   // Add tile layer (terrain-oriented style that works well for hiking)
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    minZoom: 5,
+    minZoom: 2,
     attribution:
       'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
   }).addTo(map);
